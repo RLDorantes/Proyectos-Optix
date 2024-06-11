@@ -1,0 +1,12 @@
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\bin\OptixPanel_01.deps.json
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\bin\OptixPanel_01.dll
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\bin\OptixPanel_01.pdb
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\OptixPanel_01.csproj.AssemblyReference.cache
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\OptixPanel_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\OptixPanel_01.AssemblyInfoInputs.cache
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\OptixPanel_01.AssemblyInfo.cs
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\OptixPanel_01.csproj.CoreCompileInputs.cache
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\OptixPanel_01.dll
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\refint\OptixPanel_01.dll
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\OptixPanel_01.pdb
+C:\Lab Files\Optix\OptixPanel_01\ProjectFiles\NetSolution\obj\Debug\ref\OptixPanel_01.dll

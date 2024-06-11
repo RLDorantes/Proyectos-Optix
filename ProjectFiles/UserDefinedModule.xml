@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>OptixPanel_01UserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="c05a81edcb91fa074772f19543ea1b38" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="632709bc0ca708c922da2f68cb20eb09" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="01a7e8933afd7c95fe894b0859308138" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="4ac0e3cd4de14c3030a2b4e11526681b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="dfd608856ac9169edc3dd3847ce7f7bc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="41382c57dc616862c1af276ff6942abc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="343e9a553a1648e3de95b91f6d877b43" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="93cbf19dd68a72c543a41f03c3c2b7a1" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="d17d8ab3d7f8047c35a02cbe0b7248c6" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="41f433c486aa6dfdb14c2c47570eea1a" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="9cf154c923572624320f16c16fa657a3" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="548a589cc1532b072d9d24316f7b6090" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="cca9f8f75e244ad8da47837e3655e8bc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="07b10933e4ee4d4cbf84518e190ea9be" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="dc2c41b238ed9ce9aa4f98d28d04b528" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="e348b14dbc7035688714c7ced8a72128" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="d8a8bb0d6c0490587ebdf9c1eb42375e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="77122192dcccfaa39d1e78d7bd27e222" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="f0afd51b3f49febd40b32153974e81b8" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixPanel_01" guid="323ecbd80fe0dccc66307959b261f54a" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>
