@@ -1,0 +1,17 @@
+Name: Pievar
+Id: g=09255ac7e008b8aefeeb41f0aa8a72c0
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=b8c479136ec80917d8e20f050fd0d8f9
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable3
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
